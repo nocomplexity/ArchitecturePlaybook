@@ -54,7 +54,7 @@ requirements.
     forward and reverse engineering, and also delivers key features for
     performing difficult change management and documentation tasks that
     normally require much time and effort.
--   [JSON Schema]](https://spacetelescope.github.io/understanding-json-schema/). Nice short book that gives you help with creating your JSON Schema.    
+-   [JSON Schema](https://spacetelescope.github.io/understanding-json-schema/). Nice short book that gives you help with creating your JSON Schema.    
 
  
 
