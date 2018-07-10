@@ -42,8 +42,7 @@ requirements.
     Since Archi is targeted to all architecture aspects, this tool is
     usuable for creating conceptual, logical and physical data
     models too.
--   [<span class="repository-meta-content">WWW SQL
-    Designer</span>](https://github.com/ondras/wwwsqldesigner).  This
+-   [WWW SQL Designer](https://github.com/ondras/wwwsqldesigner).  This
     tool allows you to draw and create database schemas (E-R diagrams)
     directly in browser. A physical data model (sql) can also be
     imported and adjusted visually.

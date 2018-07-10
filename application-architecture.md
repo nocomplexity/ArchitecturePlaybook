@@ -19,13 +19,12 @@ interfaces and implementation constrains.
 Using the following tools for creating an application architecture saves
 time and increases the quality of your application architecture:
 
--   <span
-    class="repository-meta-content">[UMLet](http://www.umlet.com/).
+-   [UMLet](http://www.umlet.com/).
     UMLet is an open-source UML tool with a simple user interface: draw
     UML diagrams fast, export diagrams to eps, pdf, jpg, svg, and
     clipboard, share diagrams using Eclipse, and create new, custom UML
-    elements.\
-     </span>
+    elements.
+    
 -   [Papyrus Modeling environment](http://www.eclipse.org/papyrus/).
     Papyrus is an industrial-grade open source Model-Based
     Engineering tool. Papyrus is the base platform for several
@@ -33,8 +32,8 @@ time and increases the quality of your application architecture:
     modelling tool, but aims to support MDA (Model Driven Architecture)
     completely.
 -   [Archi](http://www.archimatetool.com/). Since Archi(tm) is a real
-    TOGAF based architecture/desing tool, Archi is a good solution for
-    creation of an application architecture.
+    TOGAF based architecture and desing tool, Archi is a good solution for
+    creation of an enterprise architecture. With Archi you can use the Archimate(tm) modeling language. Since Archimate is a language for Enterprise Architecture modeling, it is not suited and designed for creating more detailed overviews and designs. 
 -   [Open ModelSphere](http://www.modelsphere.com/org/). Open
     ModelSphere is a powerful data, process and UML modeling tool.
 -   [Modelio](http://www.modelio.org). Modelio is a modelling
@@ -47,8 +46,7 @@ external interfaces. APIs form the connecting glue between modern
 applications. Creating good interfaces is a MUST for every good
 architecture. Below some open tools that can help to speed up this step:
 
--   [Integration
-    Principles](https://nocomplexity.com/integration-principles/). With
+-   [Integration Principles](https://nocomplexity.com/integration-principles/). With
     this tool you can easily (re)use good integration principles for
     your project.
 -   [API Blueprint.](https://apiblueprint.org/) API Blueprint is all

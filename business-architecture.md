@@ -23,11 +23,11 @@ You can use one of the following tools:
 
 -   Business architecture template(s)
 -   (Re)use  business principles
--   Modelling your business processes
+-   Modeling your business processes
 -   Defining your business products
 
-Tools for creating a business architecture
-------------------------------------------
+## Tools for creating a business architecture
+
 
 To speed up the process of creating your business architecture you can
 make use of one of the following tools:
@@ -39,7 +39,7 @@ make use of one of the following tools:
     modelling™ language. The Archi tool is targeted toward all levels
     of Architects. The tool is MIT Licensed, so it provides a low cost
     solution to users who are looking for a free, open ArchiMate
-    modelling tool.
+    modeling tool.
 -   [Camunda Modeler](https://camunda.org/download/modeler/). Camunda
     Modeler is an OSS desktop application for editing BPMN
     process diagrams(2.0) and DMN decision tables. It is very easy to
@@ -48,13 +48,13 @@ make use of one of the following tools:
     an open source platform for workflow and business
     process management. So when you use the [Camunda
     suite](https://camunda.org/) you can also use the execution engine
-    for your processes you have modelled.
+    for your processes you have modeled.
 -   [Protégé](http://protege.stanford.edu/). Protégé is an OSS web or
     desktop application that can be used for building
     business ontologies.
 
-Business architecture templates
--------------------------------
+## Business architecture templates
+
 
 Creating a business architecture means doing real business research.
 However for a quality business architecture it make sense to make use of
@@ -78,8 +78,8 @@ SHOULD contain some default reusable text blocks.
 
  
 
-Using business viewpoints
--------------------------
+## Using business viewpoints
+
 
 Viewpoints can provide benefit to address specific concerns for certain
 stakeholders. Below a list of most used viewpoint within a business
@@ -95,8 +95,8 @@ architecture:
     These  relationships and organizational interfaces may be
     represented as business services.
 
-Help for creating a business architecture
------------------------------------------
+## Help for creating a business architecture
+
 
 -   [Help Guide for creating a business architecture when dealing
     with SOA/Integration.](http://www.soablueprint.com/yahoo_site_admin/assets/docs/SOAPOpinion_BusinessArchitecture.49175900.pdf)

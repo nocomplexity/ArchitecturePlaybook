@@ -1,0 +1,34 @@
+Capability,Description,Tags
+(network)Session lifetime is limited,Session lifetime is limited.,Security
+A test specification for the system must be available,A test specification for the system must be available in order to perform test of the created system.,"Documentation, NFR"
+Clock Identity Authentication and Authorization,"Authentication refers to verifying the identity of the peer clock. Authorization, on the other hand, refers to verifying that the peer clock is permitted to play the role that it plays in the protocol.  For example, some nodes may be permitted to be masters,while other nodes are only permitted to be slaves or TCs. Authentication is typically implemented by means of a cryptographic signature, allowing the verification of the identity of the sender.  Authorization requires clocks to maintain a list of authorized clocks, or a ""black list"" of clocks that should be denied service or revoked.",Security
+Data logging:Sensitive data is not logged in clear text by the application.,Sensitive data is not logged in clear text by the application.,"NFR, Security"
+"Database connections, passwords, keys, or other secrets are not stored in plain text.","Database connections, passwords, keys, or other secrets are not stored in plain text.","NFR, Security"
+Disaster Recovery,"The solution will be configured to  be split across the minimal two data centers where possible with failover from data center to data center in the event of a disaster,  In addition, each data center needs to be able to run in a self sufficient manner should it become isolated from the other.",NFR
+Documentation must be available in an open document format,"All system documentation must be made available in open document format. System documentation is (not exhausted) operational manuals, code documentation, test specs and test reports, installation manuals.","Documentation, NFR"
+Encryption keys must be secured,Encryption keys must be secured.,Security
+High Availability,"All components should be configured in a high availability configuration to eliminate single points of failure, and minimize solution outages.",Availability
+Maintainability,"The system should allow for easy software upgrades with minimal outage. The outage should be restricted to no longer than one day, and allow for the use of a back up system for service continuity while the upgrade the taking place.",NFR
+Maintainability,"Any solution must be maintainable by the affected maintenance team, both initially and throughout its lifecycle.
+Unnecessary complexity in maintenance, such as by requiring additional / unusual skills or tools or having a complex solution design, adds risk to the solution’s supportability and must be justified.","maintainability, NFR"
+Manageability,"All solutions must be managed throughout their lifecycle, including startup, shutdown, backup, updates, security / permission changes, etc. Administrators and support personnel must be able to conduct such routine activities effectively in order to ensure that the solution does not incur excessive cost or experience unnecessary outages.","manageability, NFR"
+Minimize Footprint,Stack multiple components within single operating system instances where possible to minimize both the number of physical and virtual servers required to run the solution.,NFR
+Privileged Accounts must not be used for non-administrator activities,"Privileged and super-user accounts (Administrator, root, etc.) must not be used for non-administrator activities.  A secure mechanism to escalate privileges (e.g., via User Account Control or via sudo) with a standard account is acceptable to meet this requirement. Network services must run under accounts assigned the minimum necessary privileges.",Security
+Requirements for Evidence,"Requirements for Evidence:The strength of mechanisms analysis shall show that all critical mechanisms satisfy the claimed minimum strength of mechanisms rating in the case of cryptographic mechanisms, this shall take the form of a statement of confirmation from the appropriate national body.",Security
+Secure Hash Standard (SHS) &#8211,"This Standard specifies secure hash algorithms, SHA -1, SHA-224, SHA-256, SHA-384, SHA-512, SHA-512/224 and SHA-
+512/256. All of the algorithms are iterative, one-way hash functions that can process a message to produce a condensed representation called a message digest. These algorithms enable the determination of a message’s integrity: any change to the message will, with a very high probability, result in a different message digest.
+The digests are used to detect whether messages have been changed since the digests were generated.
+See: http://csrc.nist.gov/publications/fips/fips180-4/fips-180-4.pdf",Security
+SecureBoot,The system where software is deployed supports SecureBoot (also known as Trusted Boot).,Security
+Sensitive data is not stored in persistent cookies,Sensitive data is not stored in persistent cookies.,Security
+Sensitive data is transmitted with the HTML POST protocol.,Sensitive data is transmitted with the HTML POST protocol. So GET is NOT used for sensitive data.,Security
+Service levels,"The required service level(s) for any solution affect its design, cost, maintenance and support. As such, these must be known.","NFR, service levels"
+SSL is used to protect authentication cookies,SSL is used to protect authentication cookies.,Security
+Supportability,"Any solution must be supportable by the affected operations and maintenance teams, both initially and throughout its lifecycle.
+Unnecessary complexity in support, such as by requiring additional / unusual skills or tools, adds risk to the solution’s supportability and must be justified. 
+The maintenance support team will be responsible for the success of the solution during its production life. As such, they require training, mentoring and appropriate transition measures to ensure they are able to successfully support the new component in the production environment.","NFR, supportability"
+The certificate must be an X.509v3 certificate,"The certificate must be an X.509v3 certificate. 
+The certificate must be within the valid period. The certificate must be verified and validated through authentication. 
+The system will not issue digital certificates. Users will present trusted third party-issued certificates that are valid and verifiable by the system.","NFR, Security"
+The contents of authentication cookies are encrypted,The contents of authentication cookies are encrypted.,Security
+User ID must be unique and passwords must be stored in irreversible encrypted form,User ID must be unique.,Security

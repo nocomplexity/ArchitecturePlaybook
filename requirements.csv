@@ -1,0 +1,121 @@
+Requirement_title,Requirement_type,Requirement_description,Requirement_priority,Requirement_tags,Requirement_uuid,Requirement_hash
+(network)Session lifetime is limited,Implementation,Session lifetime is limited.,Could,Security,,
+A test specification for the system must be available,Business Requirement,A test specification for the system must be available in order to perform test of the created system.,Could,"Documentation, NFR",,
+Business Process Models must be based on  BPMN 2.0,Business Requirement,"BPMN 2.0 must be used
+A standard Business Process Model and Notation (BPMN) will provide businesses with the capability of understanding their internal business procedures in a graphical notation and will give organizations the ability to communicate these procedures in a standard manner. Furthermore, the graphical notation will facilitate the understanding of the performance collaborations and business transactions between the organizations.
+See: http://www.bpmn.org/",Could,standard,,
+Clock Identity Authentication and Authorization,QoS(Quality-of-Service),"The security mechanism MUST support authentication.
+Authentication refers to verifying the identity of the peer clock. Authorization, on the other hand, refers to verifying that the peer clock is permitted to play the role that it plays in the protocol.  For example, some nodes may be permitted to be masters,while other nodes are only permitted to be slaves or TCs. Authentication is typically implemented by means of a cryptographic signature, allowing the verification of the identity of the sender.  Authorization requires clocks to maintain a list of authorized clocks, or a ""black list"" of clocks that should be denied service or revoked.",Could,Security,,
+Data logging:Sensitive data is not logged in clear text by the application.,Implementation,Sensitive data is not logged in clear text by the application.,Could,"NFR, Security",,
+"Database connections, passwords, keys, or other secrets are not stored in plain text.",Business,"Database connections, passwords, keys, or other secrets are not stored in plain text.",Could,"NFR, Security",,
+Digital Signature Standard (DSS) (FIPS PUB 186 &#8211; 4),QoS(Quality-of-Service),"Digital Signature Standard (DSS) - FIPS PUB 186-4
+This Standard defines methods for digital signature generation that can be used for the protection of binary data (commonly called a message), and for the verification and validation of those digital signatures. Three techniques are approved.
+(1) The Digital Signature Algorithm (DSA) is specified in this Standard. The specification includes criteria for the generation of domain parameters, for the generation of public and private key pairs, and for the generation and verification of digital signatures.
+(2) The RSA digital signature algorithm is specified in American National Standard (ANS) X9.31 and Public Key Cryptography Standard (PKCS) #1. FIPS 186-4 approves the use of implementations of either or both of these standards and specifies additional requirements.
+(3) The Elliptic Curve Digital Signature Algorithm (ECDSA) is specified in ANS X9.62. FIPS 186-4 approves the use of ECDSA and specifies additional requirements. Recommended elliptic curves for Federal Government use are provided herein.
+
+See: http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.186-4.pdf",Could,"Security, standard",,
+Disaster Recovery,Business Requirement,"The solution will be configured to  be split across the two data centers where possible with failover from data center to data center in the event of a disaster,  In addition, each data center needs to be able to run in a self sufficient manner should it become isolated from the other.",Could,NFR,,
+Documentation must be available in an open document format,System Requirement,"All system documentation must be made available in open document format. System documentation is (not exhausted) operational manuals, code documentation, test specs and test reports, installation manuals.",Could,"Documentation, NFR",,
+Encryption keys must be secured,Business,Encryption keys must be secured.,Could,Security,,
+FIPS PUB 198-1:The Keyed-Hash Message Authentication Code  (HMAC),Business,"FIPS PUB 198-1:The Keyed-Hash Message Authentication Code  (HMAC)
+Providing a way to check the integrity of information transmitted over or stored in an unreliable medium is a prime necessity in the world of open computing and communications. Mechanisms that provide such integrity checks based on a secret key are usually called message authentication codes (MACs). Typically, message authentication codes are used between two parties that share a secret key in order to authenticate information transmitted between these parties. This Standard defines a MAC that uses a cryptographic hash function in conjunction with a secret key. This mechanism is called HMAC [HMAC]. HMAC shall use an Approved cryptographic hash function [FIPS180-3]. HMAC uses the secret key for the calculation and verification of the MACs.  
+
+See:http://csrc.nist.gov/publications/fips/fips198-1/FIPS-198-1_final.pdf",Could,"Security, standard",,
+High Availability,Business Requirement,"All components should be configured in a high availability configuration to eliminate single points of failure, and minimize solution outages.",Could,NFR,,
+Implementation must comply to the&#8221;Do Not Track Compliance Policy&#8221;,Implementation,"The website (DNS) is compliant with the privacy-friendly Do Not Track (DNT) Policy of the EFF.org organization.
+Reference: https://www.eff.org/dnt-policy
+w3c reference: http://www.w3.org/TR/tracking-dnt/",Could,"Privacy, standard",,
+JSON-LD,Implementation,"JSON-LD is a lightweight Linked Data format. It is easy for humans to read and write. It is based on the already successful JSON format and provides a way to help JSON data interoperate at Web-scale. JSON-LD is an ideal data format for programming environments, REST Web services, and unstructured databases such as CouchDB and MongoDB.
+
+See: http://json-ld.org/",Must,standard,574ec3fb6f845,52cc9b5d3b149fafad133c2c3fcc41250169f885
+Maintainability,Business Requirement,"The system should allow for easy software upgrades with minimal outage. The outage should be restricted to no longer than one day, and allow for the use of a back up system for service continuity while the upgrade the taking place.",Could,NFR,,
+Maintainability,System Requirement,"Any solution must be maintainable by the affected maintenance team, both initially and throughout its lifecycle.
+
+Unnecessary complexity in maintenance, such as by requiring additional / unusual skills or tools or having a complex solution design, adds risk to the solution’s supportability and must be justified.",Could,"maintainability, NFR",,
+Manageability,System Requirement,"All solutions must be managed throughout their lifecycle, including startup, shutdown, backup, updates, security / permission changes, etc. Administrators and support personnel must be able to conduct such routine activities effectively in order to ensure that the solution does not incur excessive cost or experience unnecessary outages.",Could,"manageability, NFR",,
+Minimize Footprint,Business Requirement,Stack multiple components within single operating system instances where possible to minimize both the number of physical and virtual servers required to run the solution.,Could,NFR,,
+Passphrase Complexity,Implementation,"When passphrases are used, they must meet the following complexity specifications:
+
+&nbsp;
+
+Passphrases <strong>MUST</strong>:
+
+&nbsp;
+<ul>
+	<li>Contain eight characters <strong><em>or more</em></strong></li>
+	<li>Contain characters from <em><strong>two</strong></em> of the following <em><strong>three</strong></em> character classes:
+<ol>
+	<li>Alphabetic (e.g., a-z, A-Z)</li>
+	<li>Numeric (i.e. 0-9)</li>
+	<li>Punctuation and other characters (e.g., !@#$%^&amp;*()_+|~-=`{}[]:"";'&lt;&gt;?,./)</li>
+</ol>
+</li>
+</ul>
+Multi-user systems must be configured to enforce these complexity requirements and require that users change any pre-assigned passphrases immediately upon initial access to the account.
+
+&nbsp;",Could,Security,,
+Payment Card Industry (PCI)  DSS v3.1,Business,"The design/implementation must be compliant with the Payment Card Industry (PCI) Data Security Standard version 3.1
+PCI DSS provides a baseline of technical and operational requirements designed to protect account data. PCI DSS applies to all entities involved in payment card processing — including merchants, processors, acquirers, issuers, and service providers. PCI DSS also applies to all other entities that store, process or transmit cardholder data (CHD) and/or sensitive authentication data (SAD).
+
+Detailed spec on: https://www.pcisecuritystandards.org/documents/PCI_DSS_v3-1.pdf",Could,"Security, standard",,
+Payment Card Industry (PCI)  Point &#8211; to &#8211; Point Encryption,QoS(Quality-of-Service),"Payment Card Industry (PCI) Point - to- Point Encryption Solution Requirements and Testing Procedures Version 2.0
+(Revision 1.1)
+The objective of this standard is to facilitate the development, approval, and deployment of PCI-approved P2PE solutions that will increase the protection of account data by encrypting that data from the point of interaction within the encryption environment where account data is captured through to the point of decrypting that data inside the decryption environment, effectively removing clear-text account data between these two points. The requirements contained within this standard are intended for P2PE solution providers and other entities that provide P2PE components or P2PE applications for use in P2PE solutions, as well as P2PE assessors evaluating these entities. Additionally, merchants benefit from using P2PE solutions due to increased protection of account data and subsequent reduction in the presence of clear -text account data within their environments.
+
+Details specs can be found at: https://www.pcisecuritystandards.org/documents/P2PE_v2_r1-1.pdf",Could,"Security, standard",,
+Privileged Accounts must not be used for non-administrator activities,Functional,"Privileged and super-user accounts (Administrator, root, etc.) must not be used for non-administrator activities.  A secure mechanism to escalate privileges (e.g., via User Account Control or via sudo) with a standard account is acceptable to meet this requirement. Network services must run under accounts assigned the minimum necessary privileges.",Could,Security,,
+Requirements for Evidence,QoS(Quality-of-Service),"Requirements for Evidence:The strength of mechanisms analysis shall show that all critical mechanisms satisfy the claimed minimum strength of mechanisms rating in the case of cryptographic mechanisms, this shall take the form of a statement of confirmation from the appropriate national body.",Could,Security,,
+Secure Hash Standard (SHS) &#8211; FIPS PUB 180 &#8211; 4,Implementation,"This Standard specifies secure hash algorithms, SHA -1, SHA-224, SHA-256, SHA-384, SHA-512, SHA-512/224 and SHA-
+512/256. All of the algorithms are iterative, one-way hash functions that can process a message to produce a condensed representation called a message digest. These algorithms enable the determination of a message’s integrity: any change to the message will, with a very high probability, result in a different message digest.
+The digests are used to detect whether messages have been changed since the digests were generated.
+
+See: http://csrc.nist.gov/publications/fips/fips180-4/fips-180-4.pdf",Could,"Security, standard",,
+SecureBoot,Business,"The system where software is deployed supports SecureBoot (also known as Trusted Boot).
+
+&nbsp;",Must,Security,55e96359e66cc,819a5632c7a87096b5d14969cff9e5c483d9651e
+Semantic Versioning,QoS(Quality-of-Service),"All version numbering must match Semver 2.0
+
+Given a version number MAJOR.MINOR.PATCH, increment the:
+<ol>
+ 	<li>MAJOR version when you make incompatible API changes,</li>
+ 	<li>MINOR version when you add functionality in a backwards-compatible manner, and</li>
+ 	<li>PATCH version when you make backwards-compatible bug fixes.</li>
+</ol>
+Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
+
+See: http://semver.org/",Must,standard,573dbdbd23f25,ac4487fc34d7f002008fa71985bd8ff2bd4a7e15
+Sensitive data is not stored in persistent cookies,Business,Sensitive data is not stored in persistent cookies.,Could,Security,,
+Sensitive data is transmitted with the HTML POST protocol.,Implementation,Sensitive data is transmitted with the HTML POST protocol. So GET is NOT used for sensitive data.,Could,Security,,
+Service levels,System Requirement,"The required service level(s) for any solution affect its design, cost, maintenance and support. As such, these must be known.",Could,"NFR, service levels",,
+SSL is used to protect authentication cookies,Business,SSL is used to protect authentication cookies.,Could,Security,,
+Supportability,IT Requirement,"Any solution must be supportable by the affected operations and maintenance teams, both initially and throughout its lifecycle.
+
+Unnecessary complexity in support, such as by requiring additional / unusual skills or tools, adds risk to the solution’s supportability and must be justified. 
+
+The maintenance support team will be responsible for the success of the solution during its production life. As such, they require training, mentoring and appropriate transition measures to ensure they are able to successfully support the new component in the production environment.",Could,"NFR, supportability",,
+Systems must comply with BIOS Integrity Measurement Guidelines,QoS(Quality-of-Service),"The systems must implement measurements as described in the NIST Special Publication 800-155 (BIOS Integrity Measurement Guidelines).
+
+Client computers such as desktops and laptops rely on the Basic Input/Output System (BIOS) to initialize their hardware during boot. The BIOS is firmware, and it can be configured. If the BIOS code or configuration is altered from the intended state, either maliciously or accidentally, the desktop or laptop may experience losses of confidentiality, integrity, and availability, including system instability, system failure, and information leakage.
+
+See: http://csrc.nist.gov/publications/drafts/800-155/draft-SP800-155_Dec2011.pdf
+
+for more information",Could,"Security, standard",,
+The certificate must be an X.509v3 certificate,Business,"The certificate must be an X.509v3 certificate. 
+The certificate must be within the valid period. 
+The certificate must be verified and validated through authentication. 
+The system will not issue digital certificates. Users will present trusted third party-issued certificates that are valid and verifiable by the system.",Could,"NFR, Security",,
+The contents of authentication cookies are encrypted,Implementation,The contents of authentication cookies are encrypted.,Could,Security,,
+User ID must be unique and passwords must be stored in irreversible encrypted form,Business,"User ID must be unique. Passwords must be stored in irreversible encrypted form, and the password file cannot be viewed in unencrypted form.  
+A password must not be displayed on  the data entry/display device. 
+Passwords must be at least eight characters long. 
+Passwords must be composed of at least three of the following: English uppercase letters, English lowercase letters, numeric characters, and special characters. 
+Password lifetime will not exceed 60 days
+Users cannot use the previous six passwords. 
+The system will give the user a choice of alternative passwords from which to choose. 
+Passwords must be changed by the user after initial logon.",Could,"NFR, Security",,
+Web Hypertext Application Technology Working Group (WHATWG),Implementation,"The Web Hypertext Application Technology Working Group (<a href=""https://whatwg.org/"" target=""_blank"">WHATWG</a>) is a growing community of people interested in evolving the Web. It focuses primarily on the development of HTML and APIs needed for Web applications.
+
+The WHATWG was founded by individuals of Apple, the Mozilla Foundation, and Opera Software in 2004, after a W3C workshop. Apple, Mozilla and Opera were becoming increasingly concerned about the W3C’s direction with XHTML, lack of interest in HTML and apparent disregard for the needs of real-world authors. So, in response, these organisations set out with a mission to address these concerns and the Web Hypertext Application Technology Working Group was born.
+
+See: https://whatwg.org/",Must,"Browser, standard",5706b1b60c7f2,69d0280feb294f1b771ed237113e4c61dd92c184
