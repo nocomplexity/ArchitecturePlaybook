@@ -35,3 +35,11 @@ TI Templates:
     program](http://fitsm.itemo.org/fitsm-templates-samples-guides).
 -   [IT Service Capacity Plan (MSWord).  Source EU
     FitSM program.](http://fitsm.itemo.org/sites/default/files/FitSM_Sample_Capacity_Plan_v1.docx)
+
+## Abstraction Tools
+
+To be flexible and remain portable open interfaces you SHOULD think of using abstraction layers.
+Abstraction layers on TI level can make your implementation easier. But the trade-off is of course that using an extra layer adds another dependency. 
+
+Good TI abstraction Tools to be used are:
+* Apache Libcloud (http://libcloud.apache.org/). Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API. Great documentation which offers standardization over the fuzzy Cloud Terms are included, check: https://libcloud.readthedocs.io/en/latest/index.html
