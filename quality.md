@@ -208,7 +208,7 @@ Note that when you do a critical review on ISO20510 you will find that the follo
 *    Compliance (e.g. with laws, standards) requirements
 *    Documentation, Support and Training requirements and of course:
 
-Functional requirements and compliance can be covered functionality. Documentation, support and training is can be covered by maintainability and usability (operability).
+Functional requirements and compliance can be covered under the category 'Functionality'. Documentation, support and training is can be covered by the categories 'Maintainability' and 'Usability (operability)'.
 
 Process quality aspects like:
 
