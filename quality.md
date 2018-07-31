@@ -215,5 +215,5 @@ Process quality aspects like:
 *    Project Timing requirements
 *    Project Budget requirements
 
-Are not within scope of product qualities, but are of course of key importance on the product quality.
+Are not within scope of the ISO product qualities, but process quality aspects are very important to create good architecture products. 
 
