@@ -17,7 +17,9 @@ Business IT Architecture PLAYBOOK
    application-architecture
    ti-architecture
    quality
+   architecture-references
    capabilities
+   help
 
 
 

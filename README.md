@@ -18,10 +18,11 @@ Share this book! The best way to help is share this eBook!
 This is a living document and will continue to be updated with more helpful information and examples as they become available.
 
 The latest version of this architecture playbook is always on:
-[Playbook online] (https://nocomplexity.com/architecture-playbook/)
+* https://architectureplaybook.readthedocs.io/en/latest/
 
-[PDF](http://bm-support.org/pdfdocs/NOComplexity_ArchitecturePlaybook.pdf)  and [ePUB] (www.bm-support.org/pdfdocs/NOComplexity_ArchitecturePlaybook.epub) versions are derived from this online version. These can be downloaded to share for free.
+You can download PDF or an ePUB version also using above link.
 
 Send any errors, remarks, suggestions and improvements to:
 info [at] nocomplexity [dot] com This book is open source.
-Issues and pull requests are welcome.
+Issues and pull requests are welcome!
+

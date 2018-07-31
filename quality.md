@@ -123,7 +123,7 @@ Additional labels for pre-release and build metadata are available as extensions
 
 ## Short overview of ISO 25010
 
-![Overview ISO Qualtiy Standard(25010)](ISO-25010-QualityTree.png)
+![Overview ISO Qualitiy Standard(25010)](ISO-25010-QualityTree.png)
 
 The material of ISO is unfortunate not open. But since quality matters and ISO 25010 is used heavily for managing quality aspects within business IT systems a short overview.
 
@@ -202,11 +202,18 @@ Security:Degree to which a product or system protects information and data so th
 
  
 
-Note that when you do a critical review on ISO20510 you will find that missing in ISO25010 is:
+Note that when you do a critical review on ISO20510 you will find that the following subjects are not explicit mentioned within the ISO25010 standard:
 
 *    Functional requirements
 *    Compliance (e.g. with laws, standards) requirements
 *    Documentation, Support and Training requirements and of course:
+
+Functional requirements and compliance can be covered functionality. Documentation, support and training is can be covered by maintainability and usability (operability).
+
+Process quality aspects like:
+
 *    Project Timing requirements
 *    Project Budget requirements
+
+Are not within scope of product qualities, but are of course of key importance on the product quality.
 
