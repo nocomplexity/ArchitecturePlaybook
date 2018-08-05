@@ -32,9 +32,8 @@ You can use one of the following tools:
 To speed up the process of creating your business architecture you can
 make use of one of the following tools:
 
--   [(Generic) Business
-    principles](https://nocomplexity.com/business-principles/)
--   https://principles.design/ Collection of many nice design principles used by companies (180+ examples). 
+-   [(Generic) Business principles](https://nocomplexity.com/business-principles/)
+-   [Collection]( https://principles.design/ )of many nice design principles used by companies (180+ examples). 
 -   [Archi](http://www.archimatetool.com/).  Archi™ GUI tool for
     creating a business architecture using the ArchiMate
     modelling™ language. The Archi tool is targeted toward all levels
