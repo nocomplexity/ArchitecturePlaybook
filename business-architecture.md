@@ -40,6 +40,7 @@ make use of one of the following tools:
     of Architects. The tool is MIT Licensed, so it provides a low cost
     solution to users who are looking for a free, open ArchiMate
     modeling tool.
+-   [Causal Loop Diagram](https://nocomplexity.com/causalloopdiagram/). Tool to make easy causal loop diagrams in your browser. A causal loop diagram (CLD) is a causal diagram that aids in visualizing how different variables in a system are interrelated. This FOSS tool has an nice animation to presents effects also! The original (OSS) source can be found [here](https://github.com/ncase/loopy). But the version on [NOComplexity.com](https://nocomplexity.com/causalloopdiagram>) is a (GPL) fork with some extra features. Ask nocomplexity.com for the source of this version if needed!
 -   [Camunda Modeler](https://camunda.org/download/modeler/). Camunda
     Modeler is an OSS desktop application for editing BPMN
     process diagrams(2.0) and DMN decision tables. It is very easy to
