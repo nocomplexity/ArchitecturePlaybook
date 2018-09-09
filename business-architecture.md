@@ -43,12 +43,8 @@ make use of one of the following tools:
 -   [Causal Loop Diagram](https://nocomplexity.com/causalloopdiagram/). Tool to make easy causal loop diagrams in your browser. A causal loop diagram (CLD) is a causal diagram that aids in visualizing how different variables in a system are interrelated. This FOSS tool has an nice animation to presents effects also! The original (OSS) source can be found [here](https://github.com/ncase/loopy). But the version on [NOComplexity.com](https://nocomplexity.com/causalloopdiagram>) is a (GPL) fork with some extra features. Ask nocomplexity.com for the source of this version if needed!
 -   [Camunda Modeler](https://camunda.org/download/modeler/). Camunda
     Modeler is an OSS desktop application for editing BPMN
-    process diagrams(2.0) and DMN decision tables. It is very easy to
-    use, which means that business analysts can use it as well as
-    developers, working on the same diagrams. Camunda Modeler is part of
-    an open source platform for workflow and business
-    process management. So when you use the [Camunda
-    suite](https://camunda.org/) you can also use the execution engine
+    process diagrams(2.0) and DMN decision tables. Business Process Model and Notation (BPMN) is the global standard for process modeling and one of the most important components of successful Business-IT-Alignment. BPMN is an open standard. But there are not many good OSS available packages available. Camunda Modeler is an OSS BPMN solution and is part of
+    an open source platform for workflow and business process management. So when you use the [Camunda Suite](https://camunda.org/) you can also use the execution engine
     for your processes you have modeled.
 -   [Protégé](http://protege.stanford.edu/). Protégé is an OSS web or
     desktop application that can be used for building
