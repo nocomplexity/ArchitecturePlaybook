@@ -6,13 +6,12 @@
 Architecture Playbook 
 ========================
 
-.. toctree::
-   :numbered:
-   :maxdepth: 2
+.. toctree::   
+   :maxdepth: 4
    :caption: Contents:
    
    introduction
-   business-architecture
+   businessarchitecture
    data-architecture
    application-architecture
    ti-architecture

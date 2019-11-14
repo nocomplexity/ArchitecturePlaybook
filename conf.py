@@ -53,7 +53,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Architecture Playbook'
-copyright = '2018, BM-Support.org and all contributors.'
+copyright = '2018,2019, BM-Support.org and all contributors.'
 author = 'Maikel Mardjan'
 
 # The version info for the project you're documenting, acts as replacement for
