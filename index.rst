@@ -16,7 +16,7 @@ Architecture Playbook
    application-architecture
    ti-architecture
    quality
-   architecture-references
+   architecture-links
    capabilities
    help
 
