@@ -46,9 +46,6 @@ external interfaces. APIs form the connecting glue between modern
 applications. Creating good interfaces is a MUST for every good
 architecture. Below some open tools that can help to speed up this step:
 
--   [Integration Principles](https://nocomplexity.com/integration-principles/). With
-    this tool you can easily (re)use good integration principles for
-    your project.
 -   [API Blueprint.](https://apiblueprint.org/) API Blueprint is all
     about the design-first philosophy. API Blueprint itself is OSS and
     has a growing base of OSS tools based on the spec. API Blueprint

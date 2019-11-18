@@ -1,5 +1,5 @@
-# Data Architecture
-
+Data Architecture
+==================
 
 Every business, small or large SHOULD have a data architecture. In the
 core a data architecture gives the overview and insights into the only
@@ -27,7 +27,7 @@ In general  physical data models are related to the sql or nosql storage
 engine used, in combination with scalability(performance) and security
 requirements.
 
--   [Data Principles.](https://nocomplexity.com/data-principles/) Using
+-   *Data Principles*.(See the data principles section in this book.) Using
     data principles saves you time and cost. Especially in the
     long term. Selecting data principles you need in your project of a
     solid collection gives you a head start.

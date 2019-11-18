@@ -13,6 +13,7 @@ Architecture Playbook
    introduction
    businessarchitecture
    data-architecture
+   data-principles
    application-architecture
    ti-architecture
    quality
