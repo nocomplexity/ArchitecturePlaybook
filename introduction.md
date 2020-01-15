@@ -35,11 +35,10 @@ So this playbook brings you ultimate freedom and flexibility. You can export the
 Many good books and courses already exist that cover the why and how of (Enterprise) IT architecture. So this book will not explain aspects and concepts of the very broad field of IT architecture. This playbook is targeted on providing practical tools for creating your IT architecture or design faster and better. So the focus is 100% on the real thing by using the following leading principles:
 
 1.    Tools that speed up creating your business IT Architecture.
-2.    Templates ready to use for creating business IT Architecture documents.
-3.    Collections of principles, requirements, standards and reference architecture that speed up the creation of your architecture deliverable.
-4.    Collection of various Architecture OSS Tools that speed up creating your business IT architecture.
-5.    Collection of architecture QA  tools to control and manage your IT projects.
-6.    Collection of reusable reference architectures, foundation architecture, architecture journals and more. Knowing where you can find what in an easy way will reduce your time. So you will have more time to spend on solving your problem in your organization.
+2.    Collections of principles, requirements, standards and reference architecture that speed up the creation of your architecture deliverable.
+3.    Collection of various Architecture OSS Tools that speed up creating your business IT architecture.
+4.    Collection of architecture QA  tools to control and manage your IT projects.
+5.    Collection of reusable reference architectures, foundation architecture, architecture journals and more. Knowing where you can find what in an easy way will reduce your time. So you will have more time to spend on solving your problem in your organization.
 
 ## Caution: This architecture playbook contains **OPEN material** only!
 
@@ -50,9 +49,6 @@ This architecture playbook is created to be open. This means that:
 
 This gives you the opportunity to reuse and mix content from this architecture playbook the way you want. This also means that all tools mentioned to in this architecture playbook are open and free to use without costs. We believe that sharing tools and knowledge, especially knowledge for making better architectures SHOULD be free. If you want to host this Architecture Playbook on your own company site, Intranet or just want to have more information on the OSS tools: Contact Us, or visit the [github](https://github.com/nocomplexity/ArchitecturePlaybook) repository.
 
-## Using the templates
-
-The various templates can be downloaded in html or depending on your browser preferences directly opened in another browser tab. The templates can be easily used within various office suites (e.g. MSWord, OpenOffice, GoogleDocs). When you press [CTRL+A] and [CTRL+C] and paste the complete content into your favourite text editor with [CTRL+V] you can directly work on the various sections as outlined in the template. In case you need the template in another format of have other questions regarding using the templates: Just [contact](https://nocomplexity.com/contact-us/) us!
 
 ## Notational Conventions
 

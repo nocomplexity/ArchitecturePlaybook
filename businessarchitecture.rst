@@ -32,7 +32,6 @@ Tools for creating a business architecture
 To speed up the process of creating your business architecture you can
 make use of one of the following tools:
 
--  [(Generic) Business principles] (See section business principles)
 -  `Collection <https://principles.design/>`__ of many nice design
    principles used by companies (180+ examples).
 -  `Archi <http://www.archimatetool.com/>`__.  Archi™ GUI tool for
@@ -64,6 +63,9 @@ make use of one of the following tools:
 -  `Protégé <http://protege.stanford.edu/>`__. Protégé is an OSS web or
    desktop application that can be used for building business
    ontologies.
+-  `DrawIO <https://www.draw.io/>`__. A online FOSS program to create diagrams. Its a very advanced, but also very simple to use program to create all types of (business) diagrams. UML, BPMN, ArchiMate, swimlane diagrams and many more. If you like to create good diagrams fast, think of using this program. Since its FOSS the source can be found on https://github.com/jgraph/drawio if you want to host it yourself. There is also a desktop version (electron build) of draw.io. Check https://github.com/jgraph/drawio-desktop.
+
+
 
 Business Principles
 ---------------------

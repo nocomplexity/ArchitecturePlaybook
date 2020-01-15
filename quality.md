@@ -12,14 +12,8 @@ Quality is and will always the number one aspects. This section provides various
 * [Overview of ISO 25010](#short-overview-of-iso-25010)
 
  
-## Templates for better IT Architecture QA
+## Tools for a better IT Architecture 
 
-Reuse of templates means you have more time to spend on the real quality aspects. So use the templates below.
-
-    Risk Assessment Toolkit (source State of California)
-    Risk assessment Toolkit (source State of Oregon)
-    Risk Management Toolkit (mitre)
-    Constraints template
 
 An architecture checklist helps in the governance process. Architecture checklists can become long, complex and time consuming in usage. However the aim with this architecture checklist is that it will help you and all your stakeholders involved in a simple way when you are dealing with architecture quality and risk aspects.
 
@@ -119,6 +113,15 @@ Additional labels for pre-release and build metadata are available as extensions
 **Requirement :**  Web Hypertext Application Technology Working Group (WHATWG)             
 
 **Description :** The Web Hypertext Application Technology Working Group https://whatwg.org/ is a growing community of people interested in evolving the Web. It focuses primarily on the development of HTML and APIs needed for Web applications. The WHATWG was founded by individuals of Apple, the Mozilla Foundation, and Opera Software in 2004, after a W3C workshop. Apple, Mozilla and Opera were becoming increasingly concerned about the W3C’s direction with XHTML, lack of interest in HTML and apparent disregard for the needs of real-world authors. So, in response, these organisations set out with a mission to address these concerns and the Web Hypertext Application Technology Working Group was born. See: [https://whatwg.org/](https://whatwg.org/)
+
+
+## Collections of Business IT standards and policies
+
+Creating a policies should be done smart. So reuse existing open standard and policies documentation saves time and improves the quality of your context specific standard.
+
+* [NASA Technical Standards](https://standards.nasa.gov/nasa-technical-standards)
+* [Principles and guidelines for how to write code and work together at Our Machinery](https://ourmachinery.com/files/guidebook.md.html#omg-meta:aboutthisguidebook) 
+
 
 
 ## Short overview of ISO 25010

@@ -15,6 +15,8 @@ Architecture Playbook
    data-architecture
    data-principles
    application-architecture
+   software-architecture
+   software-development
    ti-architecture
    quality
    architecture-links

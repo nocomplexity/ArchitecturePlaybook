@@ -5,14 +5,13 @@ A Technology Infrastructure (TI) Architecture is all about the hard IT.
 Hosting, capacity, connectivity, monitoring and operations. Having a
 flexible TI architecture serves all business processes.
 
-Tools for creating a Technology Infrastructure Architecture:
+When creating a Technology Infrastructure Architecture you SHOULD calculate network usage. This to prevent performance issues and availability issues. Think of calculating:
 
--   [IP Address range
-    calculator](https://nocomplexity.com/networkip-calculator/)
--   [Simple Network Bandwidth
-    Calculator](https://nocomplexity.com/simple-network-bandwidth-calculator/)
--   [Simple Capacity Calculator for web
-    servers](https://nocomplexity.com/simple-capacity-calculator/)
+-   Network usage per user.
+- IOPS usage per user and peak usage. This to check if your TI hosting provider meets your requirements.
+- Network bandwidth peak usage.
+- Average and peak network usage for some typical use cases.
+Since you do not live in a perfect world you will be forced to use assumptions. But document it and improve the calculations when major changes or incidents occur.
 
 For systems that are not using PaaS Cloud Services a lot of attention,
 time and effort is needed for the TI part of the system. Below some TI

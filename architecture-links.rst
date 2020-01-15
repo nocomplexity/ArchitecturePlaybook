@@ -1059,6 +1059,8 @@ publications.
 Foundation Architectures
 ------------------------
 
+- The New European Interoperability Framework, https://ec.europa.eu/isa2/sites/isa/files/eif_brochure_final.pdf
+
 .. raw:: html
 
    <div class="section">
