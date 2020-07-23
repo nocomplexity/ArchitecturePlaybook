@@ -54,7 +54,7 @@ source_suffix = ['.rst', '.md']
 #source_suffix = '.rst'
 
 # The master toctree document.
-master_doc = 'index_sphinx'
+master_doc = 'index'
 
 # General information about the project.
 project = 'Architecture Playbook'
