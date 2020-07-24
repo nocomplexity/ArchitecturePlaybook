@@ -42,6 +42,7 @@ requirements.
     Since Archi is targeted to all architecture aspects, this tool is
     usuable for creating conceptual, logical and physical data
     models too.
+    [ConML](http://www.conml.org/Default.aspx) Nice open method and resources (visio stencils) for conceptual data modelling.
 -   [WWW SQL Designer](https://github.com/ondras/wwwsqldesigner).  This
     tool allows you to draw and create database schemas (E-R diagrams)
     directly in browser. A physical data model (sql) can also be

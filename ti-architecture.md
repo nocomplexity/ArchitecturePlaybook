@@ -5,6 +5,12 @@ A Technology Infrastructure (TI) Architecture is all about the hard IT.
 Hosting, capacity, connectivity, monitoring and operations. Having a
 flexible TI architecture serves all business processes.
 
+Creating a simple overview of your systems is key for understanding. Of course you can use the great [Archi](http://www.archimatetool.com/) to create Archimate TI views. But Archimate is not designed for the needs to get a good understandable overview of your TI components. Simple is better, so think of using the following tools for visualisation of your TI Architecture:
+
+- [diagrams.net](https://www.diagrams.net/) General easy to use drawing software. Diagrams.net is open source, online, desktop and container deployable diagramming software. It has many default shapes and templates to create a quick system overview or network topology view quick.
+- [Diagrams](https://diagrams.mingrammer.com/). Diagrams lets you draw the cloud system architecture in Python code. Also easy to integrate with Jupyternotebooks. Diagrams was created to program your Cloud system documentation. So it support shaped for many Cloud Providers.
+
+
 When creating a Technology Infrastructure Architecture you SHOULD calculate network usage. This to prevent performance issues and availability issues. Think of calculating:
 
 -   Network usage per user.

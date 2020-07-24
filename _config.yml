@@ -1,0 +1,22 @@
+# Book settings
+title: "Architecture Playbook"
+author: "Maikel Mardjan"
+logo: 'images/binary_640.png'
+copyright: "2018,2019, 2020 BM-Support.org. Created by Maikel Mardjan. This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (cc-by-sa)"
+
+
+launch_buttons:
+  notebook_interface: "jupyterlab"  # or "classic"
+
+# Information about where the book exists on the web
+repository:
+  url: 'https://github.com/nocomplexity/ArchitecturePlaybook' 
+html:
+  use_repository_button: true
+  use_issues_button: true
+  use_edit_page_button: true
+
+sphinx:
+  config:
+    master_doc: "introduction"
+

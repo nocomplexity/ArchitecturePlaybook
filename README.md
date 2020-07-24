@@ -20,6 +20,10 @@ This is a living document and will continue to be updated with more helpful info
 The latest version of this architecture playbook is always on:
 * https://architectureplaybook.readthedocs.io/en/latest/
 
+and on:
+* https://nocomplexity.com/documents/arplaybook/introduction.html
+This version is created with [Jupyterbook](https://jupyterbook.org) and has also some templates and growing number of notebooks to help you!
+
 You can download PDF or an ePUB version also using above link.
 
 Send any errors, remarks, suggestions and improvements to:

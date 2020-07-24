@@ -1,0 +1,39 @@
+- file: introduction
+
+- header: Create your Architecture
+- file: businessarchitecture
+
+- file: data-architecture
+
+- file: data-principles
+- file: application-architecture
+- file: software-architecture
+- file: software-development
+- file: ti-architecture
+- file: quality
+
+
+- header: Appendix
+- file: architecture-references
+- file: capabilities
+- file: templates
+  sections:
+    - file: arplaybook-template-businessarchitecture
+      title: "TEMPLATE: Business Architecture "
+    - file: arplaybook-template-architecturedecisions
+      title: "TEMPLATE: Architecture decisions"
+    - file: arplaybook-template-documentinformation
+      title: "TEMPLATE: Basic SA Document info"
+    - file: arplaybook-template-requirements.md
+      title: "TEMPLATE: Requirements"
+
+
+
+- file: notebooks
+  sections:
+    - file: reliability.ipynb
+
+    
+- header: Join
+- file: help
+

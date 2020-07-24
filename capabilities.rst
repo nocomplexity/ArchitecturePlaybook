@@ -1,4 +1,4 @@
-APPENDIX: NFR Capabilities
+NFR Capabilities
 ===========================
 
 This appendix provides some a very few examples of NFRs.
