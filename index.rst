@@ -19,7 +19,7 @@ Architecture Playbook
    software-development
    ti-architecture
    quality
-   architecture-references
+   architecture-links
    capabilities
    help
 

@@ -23,9 +23,14 @@
     - file: arplaybook-template-architecturedecisions
       title: "TEMPLATE: Architecture decisions"
     - file: arplaybook-template-documentinformation
-      title: "TEMPLATE: Basic SA Document info"
-    - file: arplaybook-template-requirements.md
+      title: "TEMPLATE: Basic SA Document"
+    - file: arplaybook-template-requirements
       title: "TEMPLATE: Requirements"
+    - file: sad_template
+      expand_sections: false
+      title: "TEMPLATE:Software Architecture"
+    - file: arplaybook-template-businesscase
+      title: "TEMPLATE:Business Case"
 
 
 
