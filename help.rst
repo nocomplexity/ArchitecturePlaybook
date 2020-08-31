@@ -29,7 +29,10 @@ The following people have contributed to this document to make it better:
 [name]  [OPTIONAL email] [Optional Organisation name ] 
 
 Leif Andersen   -  www.modst.dk
+
 Simon Reitinger
+
 Sebastian Kempken 
+
 
 If you like your name stated here: This book is open source. Issues and pull requests are welcome. All contributors will be added to this list. 
