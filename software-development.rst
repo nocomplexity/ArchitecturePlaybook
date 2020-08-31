@@ -42,7 +42,9 @@ Code Quality
 -------------
 
 There are several ways to improve software quality and find bugs quickly and easily. By following a set of conventions, code will look 'cleaner' and be more understandable. It will also help spot syntax errors and other errors early, without having to run or compile all the time.
+
 Coding style
+-------------
 
 A coding style gives guidance on those parts of programming that are irrelevant to the compiler or interpreter. For instance, what do you call your variables? do you use spaces or tabs for indentation? Where do you put comments? .
 
