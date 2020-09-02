@@ -46,7 +46,7 @@ make use of one of the following tools:
    variables in a system are interrelated. This FOSS tool has an nice
    animation to presents effects also! The original (OSS) source can be
    found `here <https://github.com/ncase/loopy>`__. But the version on
-   `NOComplexity.com <https://nocomplexity.com/causalloopdiagram%3E>`__
+   `NOComplexity.com <https://nocomplexity.com/causalloopdiagram>`__
    is a (GPL) fork with some extra features. Ask nocomplexity.com for
    the source of this version if needed!
 -  `Camunda Modeler <https://camunda.org/download/modeler/>`__. Camunda
