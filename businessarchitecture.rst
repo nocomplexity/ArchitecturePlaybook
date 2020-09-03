@@ -47,8 +47,7 @@ make use of one of the following tools:
    animation to presents effects also! The original (OSS) source can be
    found `here <https://github.com/ncase/loopy>`__. But the version on
    `NOComplexity.com <https://nocomplexity.com/causalloopdiagram>`__
-   is a (GPL) fork with some extra features. Ask nocomplexity.com for
-   the source of this version if needed!
+   is a (GPL) fork with some extra features ( `source code <https://github.com/nocomplexity/causalloopdiagram/>`__ ).
 -  `Camunda Modeler <https://camunda.org/download/modeler/>`__. Camunda
    Modeler is an OSS desktop application for editing BPMN process
    diagrams(2.0) and DMN decision tables. Business Process Model and
