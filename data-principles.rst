@@ -3,7 +3,7 @@ Data Principles
 
 Since IT systems are always working on data. You MUST define some solid data principles. These principles will help you design the system and avoid complexity.
 
-Below some examples.
+Below are some examples.
 
 Timely
 ^^^^^^^^
