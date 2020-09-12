@@ -1,7 +1,7 @@
 Software Architecture
 ======================
 
-Architecture SHOULD be simple and have a clear purpose. Good software architecture methods to hard to find.
+Architecture SHOULD be simple and have a clear purpose. Good software architecture methods are hard to find.
 Often it is too high level (TOGAF based with archimate diagrams). Often with no or very little value for software developers and managers. Or software architecture diagrams are a random collection of code-snippets and UML diagrams. Often only created since creating documentation was requested. 
 
 When you create an application, its architecture must do two things:
