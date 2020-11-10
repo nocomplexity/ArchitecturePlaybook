@@ -236,7 +236,7 @@ Reuse before Buy, Buy before Build
   existing information and technology assets. If no existing internal
   asset is available for reuse, the company prefers to acquire, by
   purchasing or licensing, applicable externally available assets. The
-  comapny least preferred option is to custom build a new asset.
+  company least preferred option is to custom build a new asset.
 | **Rationale**
 
 -  Reusing IT assets (for example, IT systems or data) that are already
