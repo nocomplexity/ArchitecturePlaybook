@@ -34,5 +34,13 @@ Simon Reitinger
 
 Sebastian Kempken 
 
+Pengcheng Ding
+
+Alex Stapleton
+
+Roberto Basile
+
+Simon Reitinger
+
 
 If you like your name stated here: This book is open source. Issues and pull requests are welcome. All contributors will be added to this list. 
