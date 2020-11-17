@@ -55,7 +55,7 @@ First, make it easy. Then make it fast.
   make a product easy to use and easy to create. Focus on UX.
 | **Implications**
 | Difficult back-end performance and scaling issues are handled later.
-  This can increase development cost if performance is never account for
+  This can increase development cost if performance is never accounted for
   in a design.
 
 Use Open Data, Open Standards, Open Source, and Open Innovation
