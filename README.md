@@ -9,22 +9,20 @@ This architecture playbook is divided in the commonly used architecture sections
     Applications and of course
     Technology Infrastructure (TI)
 
-This playbook is primarily created for on-line usage.
+This playbook is created for online usage.
 
 # HELP?!
 
-Share this book! The best way to help is share this eBook!
+The best way to help is share this eBook! So share the link to with your colleagues.
 
 This is a living document and will continue to be updated with more helpful information and examples as they become available.
 
 The latest version of this architecture playbook is always on:
-* https://architectureplaybook.readthedocs.io/en/latest/
-
-and on:
 * https://nocomplexity.com/documents/arplaybook/introduction.html
+
 This version is created with [Jupyterbook](https://jupyterbook.org) and has also some templates and growing number of notebooks to help you!
 
-You can download PDF or an ePUB version also using above link.
+I am always searching for good real FOSS tools that make creating complex architectures even more fun!
 
 Send any errors, remarks, suggestions and improvements to:
 info [at] nocomplexity [dot] com This book is open source.
