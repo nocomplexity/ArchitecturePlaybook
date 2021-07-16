@@ -1,8 +1,10 @@
-- file: introduction
-
-- part: Create your Architecture
+format: jb-book
+root: introduction
+parts:
+- caption: Create your Architecture
   chapters:
   - file: businessarchitecture
+  - file: businessprinciples
   - file: data-architecture
   - file: data-principles
   - file: application-architecture
@@ -10,32 +12,27 @@
   - file: software-development
   - file: ti-architecture
   - file: quality
-
-
-- part: Appendix
+- caption: Appendix
   chapters:
   - file: architecture-references
   - file: capabilities
   - file: templates
     sections:
-      - file: arplaybook-template-businessarchitecture
-        title: "TEMPLATE: Business Architecture "
-      - file: arplaybook-template-architecturedecisions
-        title: "TEMPLATE: Architecture decisions"
-      - file: arplaybook-template-documentinformation
-        title: "TEMPLATE: Basic SA Document"
-      - file: arplaybook-template-requirements
-        title: "TEMPLATE: Requirements"
-      - file: sad_template        
-        title: "TEMPLATE:Software Architecture"
-      - file: arplaybook-template-businesscase
-        title: "TEMPLATE:Business Case"   
+    - file: arplaybook-template-businessarchitecture
+      title: 'TEMPLATE: Business Architecture '
+    - file: arplaybook-template-architecturedecisions
+      title: 'TEMPLATE: Architecture decisions'
+    - file: arplaybook-template-documentinformation
+      title: 'TEMPLATE: Basic SA Document'
+    - file: arplaybook-template-requirements
+      title: 'TEMPLATE: Requirements'
+    - file: sad_template
+      title: TEMPLATE:Software Architecture
+    - file: arplaybook-template-businesscase
+      title: TEMPLATE:Business Case
   - file: notebooks
     sections:
-      - file: reliability.ipynb
-
-    
-- part: Join
+    - file: reliability.ipynb
+- caption: Join
   chapters:
   - file: help
-

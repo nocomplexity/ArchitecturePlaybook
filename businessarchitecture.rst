@@ -66,15 +66,6 @@ make use of one of the following tools:
 
 
 
-Business Principles
----------------------
-
-Having solid business principles is key for a successful company. Small or large. Having good and solid business principles is key for developing a good architecture within solid time and cost constraints. Business principles SHOULD be defined and agreed upon within a solid process with all key business stakeholders involved.  The list below with principles below can give you a head start, since these principles are collected from various successful businesses.
-
-.. include:: businessprinciples.rst
-
-
-
 Business architecture templates
 -------------------------------
 
