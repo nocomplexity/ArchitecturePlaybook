@@ -38,7 +38,10 @@ make use of one of the following tools:
    creating a business architecture using the ArchiMate modelling™
    language. The Archi tool is targeted toward all levels of Architects.
    The tool is MIT Licensed, so it provides a low cost solution to users
-   who are looking for a free, open ArchiMate modeling tool.
+   who are looking for a free, open ArchiMate modeling tool. 
+   
+   Warning: Using archimate is in essence not agile. So mainly large corporations and governments use it. Archimate is an Enterprise Architecture (EA) modelling language. So not suited for software modelling and software engineering. It is however very good for business modelling and creating high level relations to IT systems.
+
 -  `Causal Loop
    Diagram <https://nocomplexity.com/causalloopdiagram/>`__. Tool to
    make easy causal loop diagrams in your browser. A causal loop diagram
