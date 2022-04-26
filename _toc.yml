@@ -4,6 +4,7 @@ parts:
 - caption: Create your Architecture
   chapters:
   - file: businessarchitecture
+  - file: businessprinciples
   - file: data-architecture
   - file: data-principles
   - file: application-architecture

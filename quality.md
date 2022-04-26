@@ -128,7 +128,7 @@ Creating a policies should be done smart. So reuse existing open standard and po
 
 ![Overview ISO Qualitiy Standard(25010)](ISO-25010-QualityTree.png)
 
-The material of ISO is unfortunate not open. But since quality matters and ISO 25010 is used heavily for managing quality aspects within business IT systems a short overview.
+The material of ISO is unfortunately not open. Since quality matters, the ISO25010 standard warrants a short overview here. It is used heavily for managing quality aspects within business IT systems.
 
 ### Functionality
 
