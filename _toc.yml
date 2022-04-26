@@ -11,6 +11,7 @@ parts:
   - file: software-architecture
   - file: software-development
   - file: ti-architecture
+  - file: setools
   - file: quality
 - caption: Appendix
   chapters:

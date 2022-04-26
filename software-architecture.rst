@@ -52,3 +52,12 @@ A bounded context is a sub-system in a software architecture aligned to a part o
 
 The canvas guides you through the process of designing a bounded context by requiring you to consider and make choices about the key elements of its design, from naming to responsibilities, to its public interface and dependencies.
 
+Systemizer
+---------------
+
+Systemizer is a system design tool used to create and simulate large scale distributed systems. 
+
+Landing page: https://honzaap.github.io/Systemizer/
+
+
+Repository on github: https://github.com/honzaap/Systemizer
