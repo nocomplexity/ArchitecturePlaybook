@@ -184,7 +184,6 @@ Security:Degree to which a product or system protects information and data so th
 *    Integrity : Degree to which a system, product or component prevents unauthorized access to, or modification of, computer programs or data.
 *    Non-repudiation : Degree to which actions or events can be proven to have taken place, so that the events or actions cannot be repudiated later.
 *    Accountability : Degree to which the actions of an entity can be traced uniquely to the entity.
-*    Confidentiality : Degree to which a product or system ensures that data are accessible only to those authorized to have access.
 *    Authenticity : Degree to which the identity of a subject or resource can be proved to be the one claimed.
 
 ### Maintainability
