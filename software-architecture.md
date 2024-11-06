@@ -34,6 +34,11 @@ architecture changes.
 
 Source and more info on: <https://c4model.com/>
 
+[Structurizr](https://docs.structurizr.com/) is created to make C4 models in a structured way. Structurizr builds upon “diagrams as code”, allowing you to create multiple software architecture diagrams using the C4 model, in a variety of rendering tools, from a single model. Structurizr is 'C4 models as code'.
+
+But creating C4 models can be done using any simple [drawing tool](businessarchitecture.md#drawing-tools).
+
+
 ## arc42 software architectures
 
 -   arc42 is based on practical experience of many systems in various
@@ -76,6 +81,20 @@ The canvas guides you through the process of designing a bounded context
 by requiring you to consider and make choices about the key elements of
 its design, from naming to responsibilities, to its public interface and
 dependencies.
+
+## Mermaid
+
+Noting beats creating simple diagrams fast. Mermaid does the job. 
+Mermaid diagrams render on markdown files on Github, GitLab and is integrated in various Microsoft devtools. You can create flowcharts, sequence diagrams, class diagrams, state diagrams, ERDs and even C4 diagrams with Mermaid.
+
+A simple visualisation always helps in communication software designs. 
+
+Check it out: [https://mermaid.js.org/](https://mermaid.js.org/)
+
+A nice FOSS tool to render Mermaid graphs inside your terminal can be found here: 
+[https://mermaid-ascii.art/](https://mermaid-ascii.art/)
+
+
 
 ## Systemizer
 

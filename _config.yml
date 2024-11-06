@@ -1,6 +1,6 @@
 # Book settings
 title: "Architecture Playbook"
-author : '<a href="https://nocomplexity.com/">Maikel Mardjan (nocomplexity.com)</a>' # The author of the book
+author : '<a href="https://nocomplexity.com/">Maikel Mardjan (nocomplexity.com)</a> and contributors.' # The author of the book
 #author : '' To ommit the author line in the footer
 logo: 'images/nocxbanner.png'
 copyright: "2018-2024 BM-Support.org. Created by Maikel Mardjan. This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (cc-by-sa)"

@@ -56,7 +56,15 @@ requirements.
     normally require much time and effort.
 -   [JSON Schema](https://spacetelescope.github.io/understanding-json-schema/). Nice short book that gives you help with creating your JSON Schema.    
 
- 
+- [Schemaspy](https://schemaspy.org/): Nice tool to document your database structure simply and easily. Created in 2004 and still a tool that does the job.SchemaSpy is a database metadata analyzer. It helps your database administrators and developers visualize, navigate and understand your data model. Repository on Github: [https://github.com/schemaspy/schemaspy](https://github.com/schemaspy/schemaspy).
+
+- [DrawDB](https://drawdb.vercel.app/): An intuitive database design editor, data-modeler, and SQL generator. DrawDB is a robust and user-friendly database entity relationship (DBER) editor right in your browser. Build diagrams with a few clicks, export sql scripts, customize your editor, and more. To use this FOSS tool no account is needed. Repository is on Github: [https://github.com/drawdb-io/drawdb](https://github.com/drawdb-io/drawdb).
+
+
+- [SQLAlchemy Data Model Visualizer](https://github.com/Dicklesworthstone/sqlalchemy_data_model_visualizer). This Python-based utility generates high-quality, readable visualizations of your SQLAlchemy ORM models with almost no effort. With a focus on clarity and detail, it uses Graphviz to render each model as a directed graph, making it easier to understand the relationships between tables in your database schema. Architecture needs visuals for communication and good understanding. This tool helps. [SQLAlchemy](https://www.sqlalchemy.org/) is a Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL. It provides a full suite of well known enterprise-level persistence patterns, designed for efficient and high-performing database access, adapted into a simple and Pythonic domain language.
+
+
+
 
 Data Architecture Templates
 ---------------------------
