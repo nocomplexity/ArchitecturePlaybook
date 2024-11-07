@@ -73,6 +73,17 @@ make use of one of the following tools:
     desktop application that can be used for building business
     ontologies.
 
+
+```{admonition} Architectural Decision Records 
+:class: tip, dropdown
+An Architectural Decision (AD) is a justified design choice that addresses a functional or non-functional requirement that is architecturally significant.
+This great toolkit with templates makes collection, storing and using ADRs simple.
+
+Check: [Architectural Decision Records - Playbook](https://adr.github.io/)
+
+Repository on [Github](https://github.com/adr)
+```
+
 ### Drawing tools
 
 Beside advanced real architecture modelling tools, many architects SHOULD use also simple drawing tools to communicate architectures and designs.

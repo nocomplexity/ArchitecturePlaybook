@@ -47,6 +47,25 @@ architecten. (Language dutch).
 
 ## Architecture Methods
 
+```{admonition} Architectural Decision Records 
+:class: tip, dropdown
+Great resource on ADRs. Including templates and real world examples. Using ADRs is vital for any mature architecture and architect.
+
+[Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture-decision-record?tab=readme-ov-file#how-to-start-using-adrs)
+
+```
+
+```{admonition} Self-contained Systems (SCS)
+:class: tip, dropdown
+An architectural approach that separates a larger system’s functionality into many independent, collaborating systems.
+
+[Self-contained Systems (SCS)](https://scs-architecture.org/)
+
+Repository on Github: [https://github.com/innoq/SCS](https://github.com/innoq/SCS)
+```
+
+
+
 [Archimate](https://pubs.opengroup.org/architecture/archimate3-doc/)
 
 Archimate 3 version: The ArchiMate enterprise architecture modelling

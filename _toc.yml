@@ -21,6 +21,7 @@ parts:
     sections:
     - file: arplaybook-template-businessarchitecture
       title: 'TEMPLATE: Business Architecture '
+    - file: ADR-template
     - file: arplaybook-template-architecturedecisions
       title: 'TEMPLATE: Architecture decisions'
     - file: arplaybook-template-documentinformation
