@@ -1,6 +1,8 @@
 # Introduction
 
-Smart people have been thinking on how to create IT architectures as long as there has been computers. Ideas come and go, however creating a good architectures can still be complex and time consuming. Especially when you try to invent the wheel for yourself. With this interactive playbook you can create your IT architecture better and faster. The focus of this architecture playbook is in on:
+Smart people have been thinking about how to create IT architectures for as long as computers have existed. Ideas come and go, however, creating a good architecture can still be complex and time-consuming. Especially when you try to reinvent the wheel.
+
+With this interactive playbook you can create your IT architecture better and faster. The focus of this architecture playbook is in on:
 
 1.    Knowledge reuse. Why reinvent the wheel again? It is far and more fun to create a better wheel for your organisation or IT project instead! Focus on the hard complex context specific issues. Use good open tools and knowledge for the easy 80%!
 2.    Easier creation of architecture documents and deliverables. This playbook has an extensive list of all(*) open tools available for creating your IT architecture or design. Using these open tools will speed up the process of creating your architecture deliverables and reduce your risks.
