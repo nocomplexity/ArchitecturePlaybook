@@ -400,6 +400,10 @@ architecture](https://support.rackspace.com/how-to/rackspace-open-cloud-referenc
 Description of Rackspace cloud architectural configurations so you known
 how to use it for your business or personal project. (cc-by license)
 
+[Gaia-X Specifications](https://docs.gaia-x.eu/#/)
+This is EU project. Gaia-X strives for innovation through digital sovereignty. The goal is to establish an ecosystem, whereby data is shared and made available in a trustworthy environment. Gaia-X empowers businesses, individuals, and governments with secure, transparent, and sovereign control over data through a decentralized cloud infrastructure. Great specs, architecture documents and some code to use or reuse!
+
+
 ## Microservices
 
 [Designing microservices: Domain
