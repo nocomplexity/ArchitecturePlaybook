@@ -31,7 +31,7 @@ parts:
     - file: sad_template
       title: TEMPLATE:Software Architecture
     - file: arplaybook-template-businesscase
-      title: TEMPLATE:Business Case
+      title: TEMPLATE:Business Case    
   - file: notebooks
     sections:
     - file: reliability.ipynb
