@@ -28,3 +28,8 @@ Send any errors, remarks, suggestions and improvements to:
 info [at] nocomplexity [dot] com This book is open source.
 Issues and pull requests are welcome!
 
+
+
+## Modern Architecture Tooling
+
+- [MySpec](https://myspec.dev) — Spec-driven development workbench compiling guided developer discovery interviews into deterministic 4-file specification bundles (`constitution.md`, `requirements.md`, `solution.md`, `tasks.md`) with native MCP server integration.
